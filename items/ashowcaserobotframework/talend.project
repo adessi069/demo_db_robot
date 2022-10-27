@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_xVdRwCOqEe2VhI6LV_Lmqg" label="AShowcaseRobotFramework" description="Showcase Robot-Framework" language="java" technicalLabel="ASHOWCASEROBOTFRAMEWORK" author="_xVdRwSOqEe2VhI6LV_Lmqg" productVersion="Talend Cloud Data Fabric-8.0.1.20220923_1236-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://bitbucket.adesso-group.com/scm/asrf/asrf_talend.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_xV7L0COqEe2VhI6LV_Lmqg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_xVdRwSOqEe2VhI6LV_Lmqg" login="niklas.andres@nfr1.adesso.de" firstName="Niklas" lastName="Andres" type="DQ"/>
+  <TalendProperties:User xmi:id="_xmCEYCOqEe2VhI6LV_Lmqg" login="brigitte.nkamdum@nfr1.adesso.de" firstName="Brigitte" lastName="Nkamdum" type="DQ"/>
+  <TalendProperties:User xmi:id="_MIkH4COrEe2exLlwjeKxZA" login="andrehermann@nfr1.adesso.de" firstName="Andre" lastName="Hermann" type="DQ"/>
+  <TalendProperties:User xmi:id="_MIkH4SOrEe2exLlwjeKxZA" login="ludgerhindahl@nfr1.adesso.de" firstName="Ludger" lastName="Hindahl" type="DQ"/>
+  <TalendProperties:User xmi:id="_MIkH4iOrEe2exLlwjeKxZA" login="thomas.jahn@nfr1.adesso.de" firstName="Thomas" lastName="Jahn" type="DQ"/>
+  <TalendProperties:User xmi:id="_MIkH4yOrEe2exLlwjeKxZA" login="thu.bui@nfr1.adesso.de" firstName="Thu" lastName="Bui" type="DQ"/>
+  <TalendProperties:User xmi:id="_MIkH5COrEe2exLlwjeKxZA" login="mahapan.leyser@nfr1.adesso.de" firstName="Mahapan" lastName="Leyser" type="DQ"/>
+</xmi:XMI>
